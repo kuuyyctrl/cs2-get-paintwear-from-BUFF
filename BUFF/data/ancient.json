@@ -1,0 +1,1642 @@
+{
+  "code": "OK",
+  "data": {
+    "container": {
+      "icon_url": "https://g.fp.ps.netease.com/market/file/5fc9ee7a7f9d2a7c2395e04ezlmllSxL02?fop=imageView/6/f/webp/q/75",
+      "name": "远古收藏品"
+    },
+    "has_unusual": false,
+    "items": [
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 836236,
+          "icon_url": "https://market.fp.ps.netease.com/file/662f03084648256ecbd0c052WxgLPER205?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "M4A1-S | Welcome to the Jungle (Factory New)",
+          "market_min_price": "0",
+          "name": "M4A1 消音型 | 冒险家乐园 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/662f03084648256ecbd0c052WxgLPER205?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "23358.5",
+          "sell_reference_price": "0",
+          "short_name": "M4A1 消音型 | 冒险家乐园",
+          "steam_price": "3354.94",
+          "steam_price_cny": "23846.07",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 629,
+              "internal_name": "weapon_m4a1_silencer",
+              "localized_name": "M4A1 消音版"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8790,
+              "internal_name": "red",
+              "localized_name": "red"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 588,
+              "internal_name": "ancient_weapon",
+              "localized_name": "隐秘"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 533,
+              "internal_name": "weapon_m4a1_silencer",
+              "localized_name": "M4A1 消音版"
+            }
+          }
+        },
+        "goods_id": 836236,
+        "localized_name": "M4A1 消音型 | 冒险家乐园",
+        "max_price": "23358.5",
+        "min_price": "4646"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835826,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59a42fa5f745fc184c9ddD4ikMd1g05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "AK-47 | Panthera onca (Factory New)",
+          "market_min_price": "0",
+          "name": "AK-47 | 美洲豹 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f59a401a01628ed0dc034fAheMZvmQ05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "7468.99",
+          "sell_reference_price": "0",
+          "short_name": "AK-47 | 美洲豹",
+          "steam_price": "1071.84",
+          "steam_price_cny": "7618.37",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 626,
+              "internal_name": "weapon_ak47",
+              "localized_name": "AK-47"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8787,
+              "internal_name": "beast",
+              "localized_name": "beast"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 591,
+              "internal_name": "legendary_weapon",
+              "localized_name": "保密"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 521,
+              "internal_name": "weapon_ak47",
+              "localized_name": "AK-47"
+            }
+          }
+        },
+        "goods_id": 835826,
+        "localized_name": "AK-47 | 美洲豹",
+        "max_price": "7468.99",
+        "min_price": "1200"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 836094,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f58f21806da97763b975b3a5HUNdiR05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "P90 | Run and Hide (Factory New)",
+          "market_min_price": "0",
+          "name": "P90 | 豹走 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f58f20f0fe78a3b1c687e88dINoRml05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "2998.99",
+          "sell_reference_price": "0",
+          "short_name": "P90 | 豹走",
+          "steam_price": "591.07",
+          "steam_price_cny": "4201.18",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 635,
+              "internal_name": "weapon_p90",
+              "localized_name": "P90"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 634,
+              "internal_name": "smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8786,
+              "internal_name": "yellow",
+              "localized_name": "yellow"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 591,
+              "internal_name": "legendary_weapon",
+              "localized_name": "保密"
+            },
+            "type": {
+              "category": "type",
+              "id": 578,
+              "internal_name": "csgo_type_smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 543,
+              "internal_name": "weapon_p90",
+              "localized_name": "P90"
+            }
+          }
+        },
+        "goods_id": 836094,
+        "localized_name": "P90 | 豹走",
+        "max_price": "2998.99",
+        "min_price": "1199"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835860,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f5cebd116c09cf35aea6d5tQDFx17X05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "MAC-10 | Gold Brick (Factory New)",
+          "market_min_price": "0",
+          "name": "MAC-10 | 金砖 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5cebc6b44a0950cc6c151HqjUdi7Y05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "676.9",
+          "sell_reference_price": "0",
+          "short_name": "MAC-10 | 金砖",
+          "steam_price": "137.92",
+          "steam_price_cny": "980.3",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 636,
+              "internal_name": "weapon_mac10",
+              "localized_name": "MAC-10"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 634,
+              "internal_name": "smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8786,
+              "internal_name": "yellow",
+              "localized_name": "yellow"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 590,
+              "internal_name": "mythical_weapon",
+              "localized_name": "受限"
+            },
+            "type": {
+              "category": "type",
+              "id": 578,
+              "internal_name": "csgo_type_smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 535,
+              "internal_name": "weapon_mac10",
+              "localized_name": "MAC-10"
+            }
+          }
+        },
+        "goods_id": 835860,
+        "localized_name": "MAC-10 | 金砖",
+        "max_price": "676.9",
+        "min_price": "367.5"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835877,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f5bbcf659edc89abee79c6vhzjL48y05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "USP-S | Ancient Visions (Factory New)",
+          "market_min_price": "0",
+          "name": "USP消音版 | 远古幻想 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5bbcf050f70f6859c5608Cu8ZyAdS05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "740",
+          "sell_reference_price": "0",
+          "short_name": "USP消音版 | 远古幻想",
+          "steam_price": "130",
+          "steam_price_cny": "924.01",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 613,
+              "internal_name": "weapon_usp_silencer",
+              "localized_name": "USP 消音版"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 611,
+              "internal_name": "pistol",
+              "localized_name": "手枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8788,
+              "internal_name": "green",
+              "localized_name": "green"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 590,
+              "internal_name": "mythical_weapon",
+              "localized_name": "受限"
+            },
+            "type": {
+              "category": "type",
+              "id": 576,
+              "internal_name": "csgo_type_pistol",
+              "localized_name": "手枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 552,
+              "internal_name": "weapon_usp_silencer",
+              "localized_name": "USP 消音版"
+            }
+          }
+        },
+        "goods_id": 835877,
+        "localized_name": "USP消音版 | 远古幻想",
+        "max_price": "740",
+        "min_price": "358.5"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835856,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f595dadf38932fa8d0a791Z2EGfxEO05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "XM1014 | Ancient Lore (Factory New)",
+          "market_min_price": "0",
+          "name": "XM1014 | 太古传说 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f595d927ae7b69dadc1018j89Es7jR05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "649.99",
+          "sell_reference_price": "0",
+          "short_name": "XM1014 | 太古传说",
+          "steam_price": "125.3",
+          "steam_price_cny": "890.6",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 643,
+              "internal_name": "weapon_xm1014",
+              "localized_name": "XM1014"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 641,
+              "internal_name": "shotgun",
+              "localized_name": "霰弹枪"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 590,
+              "internal_name": "mythical_weapon",
+              "localized_name": "受限"
+            },
+            "type": {
+              "category": "type",
+              "id": 579,
+              "internal_name": "csgo_type_shotgun",
+              "localized_name": "霰弹枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 553,
+              "internal_name": "weapon_xm1014",
+              "localized_name": "XM1014"
+            }
+          }
+        },
+        "goods_id": 835856,
+        "localized_name": "XM1014 | 太古传说",
+        "max_price": "649.99",
+        "min_price": "480"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835754,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f58cda2619adbe7679e65bzxMbwJv705?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "AUG | Carved Jade (Factory New)",
+          "market_min_price": "0",
+          "name": "AUG | 璞玉 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f58cd951b597912c7e9d8dtbSaHNp105?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "143.94",
+          "sell_reference_price": "0",
+          "short_name": "AUG | 璞玉",
+          "steam_price": "27.73",
+          "steam_price_cny": "197.1",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 632,
+              "internal_name": "weapon_aug",
+              "localized_name": "AUG"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8788,
+              "internal_name": "green",
+              "localized_name": "green"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 589,
+              "internal_name": "rare_weapon",
+              "localized_name": "军规级"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 522,
+              "internal_name": "weapon_aug",
+              "localized_name": "AUG"
+            }
+          }
+        },
+        "goods_id": 835754,
+        "localized_name": "AUG | 璞玉",
+        "max_price": "147.9",
+        "min_price": "119.5"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835689,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f58c4d0ce05c752dc562a3htmUPxtV05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "Tec-9 | Blast From the Past (Factory New)",
+          "market_min_price": "0",
+          "name": "Tec-9 | 上古图腾 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f58c4c0ce05c752dc56291SrNcoryF05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "147",
+          "sell_reference_price": "0",
+          "short_name": "Tec-9 | 上古图腾",
+          "steam_price": "21.88",
+          "steam_price_cny": "155.52",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 618,
+              "internal_name": "weapon_tec9",
+              "localized_name": "Tec-9"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 611,
+              "internal_name": "pistol",
+              "localized_name": "手枪"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 589,
+              "internal_name": "rare_weapon",
+              "localized_name": "军规级"
+            },
+            "type": {
+              "category": "type",
+              "id": 576,
+              "internal_name": "csgo_type_pistol",
+              "localized_name": "手枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 550,
+              "internal_name": "weapon_tec9",
+              "localized_name": "Tec-9"
+            }
+          }
+        },
+        "goods_id": 835689,
+        "localized_name": "Tec-9 | 上古图腾",
+        "max_price": "158",
+        "min_price": "94.8"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835759,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f591b2b5aeb55f0cac7232R5thHRdG05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "Galil AR | Dusk Ruins (Factory New)",
+          "market_min_price": "0",
+          "name": "加利尔AR | 废墟黄昏 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f591b126cff89f0183010emcteIj4a05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "234.7",
+          "sell_reference_price": "0",
+          "short_name": "加利尔AR | 废墟黄昏",
+          "steam_price": "45.21",
+          "steam_price_cny": "321.34",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 623,
+              "internal_name": "weapon_galilar",
+              "localized_name": "加利尔 AR"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8790,
+              "internal_name": "red",
+              "localized_name": "red"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 589,
+              "internal_name": "rare_weapon",
+              "localized_name": "军规级"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 530,
+              "internal_name": "weapon_galilar",
+              "localized_name": "加利尔 AR"
+            }
+          }
+        },
+        "goods_id": 835759,
+        "localized_name": "加利尔AR | 废墟黄昏",
+        "max_price": "234.7",
+        "min_price": "99.9"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835667,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f5ba17e0f0b866ecb464a3FqG5iadU05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "FAMAS | Dark Water (Minimal Wear)",
+          "market_min_price": "0",
+          "name": "法玛斯 | 黑水 (略有磨损)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5ba16794dc3f5caa3c1f58dLIA2cZ05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "140",
+          "sell_reference_price": "0",
+          "short_name": "法玛斯 | 黑水",
+          "steam_price": "22.68",
+          "steam_price_cny": "161.2",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 627,
+              "internal_name": "weapon_famas",
+              "localized_name": "法玛斯"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8791,
+              "internal_name": "black",
+              "localized_name": "black"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 511,
+              "internal_name": "wearcategory1",
+              "localized_name": "略有磨损"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 589,
+              "internal_name": "rare_weapon",
+              "localized_name": "军规级"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 527,
+              "internal_name": "weapon_famas",
+              "localized_name": "法玛斯"
+            }
+          }
+        },
+        "goods_id": 835667,
+        "localized_name": "法玛斯 | 黑水",
+        "max_price": "145.9",
+        "min_price": "140"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835438,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59e0c21a6e561d39353bddTTiB7gw05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "CZ75-Auto | Silver (Factory New)",
+          "market_min_price": "0",
+          "name": "CZ75自动型 | 银质 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f59e0b4592a693328e48c3y44uCOqV05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "20.31",
+          "sell_reference_price": "0",
+          "short_name": "CZ75自动型 | 银质",
+          "steam_price": "4",
+          "steam_price_cny": "28.43",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 617,
+              "internal_name": "weapon_cz75a",
+              "localized_name": "CZ75 自动手枪"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 611,
+              "internal_name": "pistol",
+              "localized_name": "手枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 11595,
+              "internal_name": "white",
+              "localized_name": "white"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 592,
+              "internal_name": "uncommon_weapon",
+              "localized_name": "工业级"
+            },
+            "type": {
+              "category": "type",
+              "id": 576,
+              "internal_name": "csgo_type_pistol",
+              "localized_name": "手枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 524,
+              "internal_name": "weapon_cz75a",
+              "localized_name": "CZ75 自动手枪"
+            }
+          }
+        },
+        "goods_id": 835438,
+        "localized_name": "CZ75自动型 | 银质",
+        "max_price": "38",
+        "min_price": "20.31"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835755,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f5b367f71e9cb31f3658bbAC5OwZs805?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "G3SG1 | Ancient Ritual (Factory New)",
+          "market_min_price": "0",
+          "name": "G3SG1 | 远古仪式 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5b366a2c87a34ed9333d0qsoQKSWX05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "27.5",
+          "sell_reference_price": "0",
+          "short_name": "G3SG1 | 远古仪式",
+          "steam_price": "4.87",
+          "steam_price_cny": "34.61",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 633,
+              "internal_name": "weapon_g3sg1",
+              "localized_name": "G3SG1"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 592,
+              "internal_name": "uncommon_weapon",
+              "localized_name": "工业级"
+            },
+            "type": {
+              "category": "type",
+              "id": 571,
+              "internal_name": "csgo_type_sniperrifle",
+              "localized_name": "狙击步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 529,
+              "internal_name": "weapon_g3sg1",
+              "localized_name": "G3SG1"
+            }
+          }
+        },
+        "goods_id": 835755,
+        "localized_name": "G3SG1 | 远古仪式",
+        "max_price": "35.95",
+        "min_price": "18.56"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835748,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f5a0c3b8f4213331d886c61WWBpGgL05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "MP7 | Tall Grass (Factory New)",
+          "market_min_price": "0",
+          "name": "MP7 | 绿野迷踪 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5a0c29d470fcc918ce43fPO6M6ZlU05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "24.99",
+          "sell_reference_price": "0",
+          "short_name": "MP7 | 绿野迷踪",
+          "steam_price": "5.94",
+          "steam_price_cny": "42.22",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 638,
+              "internal_name": "weapon_mp7",
+              "localized_name": "MP7"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 634,
+              "internal_name": "smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8788,
+              "internal_name": "green",
+              "localized_name": "green"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 592,
+              "internal_name": "uncommon_weapon",
+              "localized_name": "工业级"
+            },
+            "type": {
+              "category": "type",
+              "id": 578,
+              "internal_name": "csgo_type_smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 537,
+              "internal_name": "weapon_mp7",
+              "localized_name": "MP7"
+            }
+          }
+        },
+        "goods_id": 835748,
+        "localized_name": "MP7 | 绿野迷踪",
+        "max_price": "37.99",
+        "min_price": "20"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835459,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59c1c3ced9dbb3e7de869HCylol4A05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "P2000 | Panther Camo (Factory New)",
+          "market_min_price": "0",
+          "name": "P2000 | 豹纹迷彩 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f59c1b4b285d9b4fb42291Wmw3JNQ805?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "24.36",
+          "sell_reference_price": "0",
+          "short_name": "P2000 | 豹纹迷彩",
+          "steam_price": "4.1",
+          "steam_price_cny": "29.14",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 612,
+              "internal_name": "weapon_hkp2000",
+              "localized_name": "P2000"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 611,
+              "internal_name": "pistol",
+              "localized_name": "手枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8791,
+              "internal_name": "black",
+              "localized_name": "black"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 592,
+              "internal_name": "uncommon_weapon",
+              "localized_name": "工业级"
+            },
+            "type": {
+              "category": "type",
+              "id": 576,
+              "internal_name": "csgo_type_pistol",
+              "localized_name": "手枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 541,
+              "internal_name": "weapon_hkp2000",
+              "localized_name": "P2000"
+            }
+          }
+        },
+        "goods_id": 835459,
+        "localized_name": "P2000 | 豹纹迷彩",
+        "max_price": "29.9",
+        "min_price": "19.4"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835535,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59957bf9570a397ca27eabjMZirg205?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "P90 | Ancient Earth (Factory New)",
+          "market_min_price": "0",
+          "name": "P90 | 古老星球 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f599568e2bb32c273beebcao4dpfi205?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "5.42",
+          "sell_reference_price": "0",
+          "short_name": "P90 | 古老星球",
+          "steam_price": "1.2",
+          "steam_price_cny": "8.53",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 635,
+              "internal_name": "weapon_p90",
+              "localized_name": "P90"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 634,
+              "internal_name": "smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 593,
+              "internal_name": "common_weapon",
+              "localized_name": "消费级"
+            },
+            "type": {
+              "category": "type",
+              "id": 578,
+              "internal_name": "csgo_type_smg",
+              "localized_name": "微型冲锋枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 543,
+              "internal_name": "weapon_p90",
+              "localized_name": "P90"
+            }
+          }
+        },
+        "goods_id": 835535,
+        "localized_name": "P90 | 古老星球",
+        "max_price": "97",
+        "min_price": "3.64"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835986,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59b21bf60f52e7f70f4d61rZ8tZfQ05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "R8 Revolver | Night (Factory New)",
+          "market_min_price": "0",
+          "name": "R8左轮手枪 | 噩梦之夜 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f59b2189382913ec1ce58arYZu993u05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "48.7",
+          "sell_reference_price": "0",
+          "short_name": "R8左轮手枪 | 噩梦之夜",
+          "steam_price": "8.18",
+          "steam_price_cny": "58.14",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 619,
+              "internal_name": "weapon_revolver",
+              "localized_name": "R8 左轮手枪"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 611,
+              "internal_name": "pistol",
+              "localized_name": "手枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8791,
+              "internal_name": "black",
+              "localized_name": "black"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 593,
+              "internal_name": "common_weapon",
+              "localized_name": "消费级"
+            },
+            "type": {
+              "category": "type",
+              "id": 576,
+              "internal_name": "csgo_type_pistol",
+              "localized_name": "手枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 545,
+              "internal_name": "weapon_revolver",
+              "localized_name": "R8 左轮手枪"
+            }
+          }
+        },
+        "goods_id": 835986,
+        "localized_name": "R8左轮手枪 | 噩梦之夜",
+        "max_price": "48.7",
+        "min_price": "3.58"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835664,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f590182b0c1961a553fa4dgVjA2jci05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "SG 553 | Lush Ruins (Factory New)",
+          "market_min_price": "0",
+          "name": "SG 553 | 废墟丛生 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f590185eb36dac474ea678tjUztIkg05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "5.97",
+          "sell_reference_price": "0",
+          "short_name": "SG 553 | 废墟丛生",
+          "steam_price": "1.18",
+          "steam_price_cny": "8.39",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 630,
+              "internal_name": "weapon_sg556",
+              "localized_name": "SG 553"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8788,
+              "internal_name": "green",
+              "localized_name": "green"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 593,
+              "internal_name": "common_weapon",
+              "localized_name": "消费级"
+            },
+            "type": {
+              "category": "type",
+              "id": 570,
+              "internal_name": "csgo_type_rifle",
+              "localized_name": "步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 547,
+              "internal_name": "weapon_sg556",
+              "localized_name": "SG 553"
+            }
+          }
+        },
+        "goods_id": 835664,
+        "localized_name": "SG 553 | 废墟丛生",
+        "max_price": "103.99",
+        "min_price": "3.63"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835903,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f596adc556569d1ab27addhVitjXeo05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "SSG 08 | Jungle Dashed (Factory New)",
+          "market_min_price": "0",
+          "name": "SSG 08 | 丛林虚线 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f596ac02fb4c1a663f17c4GE2auvBg05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "40",
+          "sell_reference_price": "0",
+          "short_name": "SSG 08 | 丛林虚线",
+          "steam_price": "8.76",
+          "steam_price_cny": "62.26",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 631,
+              "internal_name": "weapon_ssg08",
+              "localized_name": "SSG 08"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 622,
+              "internal_name": "rifle",
+              "localized_name": "步枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8789,
+              "internal_name": "camouflage",
+              "localized_name": "camouflage"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130602,
+              "internal_name": "CS2",
+              "localized_name": "cs2"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 593,
+              "internal_name": "common_weapon",
+              "localized_name": "消费级"
+            },
+            "type": {
+              "category": "type",
+              "id": 571,
+              "internal_name": "csgo_type_sniperrifle",
+              "localized_name": "狙击步枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 548,
+              "internal_name": "weapon_ssg08",
+              "localized_name": "SSG 08"
+            }
+          }
+        },
+        "goods_id": 835903,
+        "localized_name": "SSG 08 | 丛林虚线",
+        "max_price": "40",
+        "min_price": "4.29"
+      },
+      {
+        "goods": {
+          "appid": 730,
+          "description": null,
+          "game": "csgo",
+          "goods_id": 835436,
+          "icon_url": "https://market.fp.ps.netease.com/file/65f59531f2997effa0b93eee2lqaUk4x05?fop=imageView/6/f/webp/q/75",
+          "is_charm": false,
+          "item_id": null,
+          "keychain_color_img": null,
+          "market_hash_name": "Nova | Army Sheen (Factory New)",
+          "market_min_price": "0",
+          "name": "新星 | 军队之辉 (崭新出厂)",
+          "original_icon_url": "https://market.fp.ps.netease.com/file/65f5953092ab27049c301721lYT71Ver05?fop=imageView/6/f/webp/q/75",
+          "sell_min_price": "5.45",
+          "sell_reference_price": "0",
+          "short_name": "新星 | 军队之辉",
+          "steam_price": "0.95",
+          "steam_price_cny": "6.75",
+          "tags": {
+            "category": {
+              "category": "category",
+              "id": 644,
+              "internal_name": "weapon_nova",
+              "localized_name": "新星"
+            },
+            "category_group": {
+              "category": "category_group",
+              "id": 641,
+              "internal_name": "shotgun",
+              "localized_name": "霰弹枪"
+            },
+            "custom": {
+              "category": "custom",
+              "id": 8789,
+              "internal_name": "camouflage",
+              "localized_name": "camouflage"
+            },
+            "exterior": {
+              "category": "exterior",
+              "id": 510,
+              "internal_name": "wearcategory0",
+              "localized_name": "崭新出厂"
+            },
+            "itemset": {
+              "category": "itemset",
+              "id": 15470,
+              "internal_name": "set_op10_ancient",
+              "localized_name": "远古收藏品"
+            },
+            "model_version": {
+              "category": "model_version",
+              "id": 130603,
+              "internal_name": "CSGO",
+              "localized_name": "csgo"
+            },
+            "quality": {
+              "category": "quality",
+              "id": 516,
+              "internal_name": "normal",
+              "localized_name": "普通"
+            },
+            "rarity": {
+              "category": "rarity",
+              "id": 593,
+              "internal_name": "common_weapon",
+              "localized_name": "消费级"
+            },
+            "type": {
+              "category": "type",
+              "id": 579,
+              "internal_name": "csgo_type_shotgun",
+              "localized_name": "霰弹枪"
+            },
+            "weapon": {
+              "category": "weapon",
+              "id": 540,
+              "internal_name": "weapon_nova",
+              "localized_name": "新星"
+            }
+          }
+        },
+        "goods_id": 835436,
+        "localized_name": "新星 | 军队之辉",
+        "max_price": "5.45",
+        "min_price": "3.8"
+      }
+    ]
+  },
+  "msg": null
+}
